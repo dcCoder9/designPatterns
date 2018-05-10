@@ -1,0 +1,13 @@
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.deps.json
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.runtimeconfig.json
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.runtimeconfig.dev.json
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.dll
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.pdb
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/bin/Debug/netcoreapp2.0/Core.dll
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/bin/Debug/netcoreapp2.0/Core.pdb
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.AssemblyInfo.cs
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.csproj.CopyComplete
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.dll
+/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.pdb

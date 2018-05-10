@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/WordScrambler.csproj",
+    "projectName": "WordScrambler",
+    "projectPath": "/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/WordScrambler.csproj",
+    "outputPath": "/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NHunspell": {
+          "target": "Package",
+          "version": "[1.2.5554.16953, )"
+        },
+        "NetSpell": {
+          "target": "Package",
+          "version": "[2.1.7, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

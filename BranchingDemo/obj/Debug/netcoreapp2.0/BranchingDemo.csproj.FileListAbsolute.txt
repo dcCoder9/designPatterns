@@ -1,0 +1,10 @@
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/bin/Debug/netcoreapp2.0/BranchingDemo.deps.json
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/bin/Debug/netcoreapp2.0/BranchingDemo.runtimeconfig.json
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/bin/Debug/netcoreapp2.0/BranchingDemo.runtimeconfig.dev.json
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/bin/Debug/netcoreapp2.0/BranchingDemo.dll
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/bin/Debug/netcoreapp2.0/BranchingDemo.pdb
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/obj/Debug/netcoreapp2.0/BranchingDemo.csproj.CoreCompileInputs.cache
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/obj/Debug/netcoreapp2.0/BranchingDemo.AssemblyInfoInputs.cache
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/obj/Debug/netcoreapp2.0/BranchingDemo.AssemblyInfo.cs
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/obj/Debug/netcoreapp2.0/BranchingDemo.dll
+/Users/wesm/Developer/c#/AbstractCasting/BranchingDemo/obj/Debug/netcoreapp2.0/BranchingDemo.pdb

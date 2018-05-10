@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/ConsoleApp1.csproj",
+    "projectName": "ConsoleApp1",
+    "projectPath": "/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/ConsoleApp1.csproj",
+    "outputPath": "/Users/wesm/Developer/c#/AbstractCasting/ConsoleApp1/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/wesm/Developer/c#/AbstractCasting/Core/Core.csproj": {
+            "projectPath": "/Users/wesm/Developer/c#/AbstractCasting/Core/Core.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

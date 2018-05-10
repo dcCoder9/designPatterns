@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "f81f8408c84365684704f4999d47111607b8f632"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "WordScrambler/1.0.0": {
+        "dependencies": {
+          "NHunspell": "1.2.5554.16953",
+          "NetSpell": "2.1.7"
+        },
+        "runtime": {
+          "WordScrambler.dll": {}
+        }
+      },
+      "NetSpell/2.1.7": {
+        "runtime": {
+          "lib/NetSpell.SpellChecker.dll": {}
+        }
+      },
+      "NHunspell/1.2.5554.16953": {
+        "runtime": {
+          "lib/net/NHunspell.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordScrambler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetSpell/2.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aYgExP8R1uOXUCBlbvDTX/t9VL0SBRy/BiZRlf6V3ZTJNZpXBQD7ZmbBdI5PewUG4Bo6uF2KQKqIZyA0znfhJw==",
+      "path": "netspell/2.1.7",
+      "hashPath": "netspell.2.1.7.nupkg.sha512"
+    },
+    "NHunspell/1.2.5554.16953": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B2tr5kfwHu0jan5Gd3JEWdJkDVJxGAXmA230y0XeqJcL4zdZWk8Bmw9LVQ3p9/qKuun/7+FemxjspbjcTLGp6g==",
+      "path": "nhunspell/1.2.5554.16953",
+      "hashPath": "nhunspell.1.2.5554.16953.nupkg.sha512"
+    }
+  }
+}

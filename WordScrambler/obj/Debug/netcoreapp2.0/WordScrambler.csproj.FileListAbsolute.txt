@@ -1,0 +1,10 @@
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/bin/Debug/netcoreapp2.0/WordScrambler.deps.json
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/bin/Debug/netcoreapp2.0/WordScrambler.runtimeconfig.json
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/bin/Debug/netcoreapp2.0/WordScrambler.runtimeconfig.dev.json
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/bin/Debug/netcoreapp2.0/WordScrambler.dll
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/bin/Debug/netcoreapp2.0/WordScrambler.pdb
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/obj/Debug/netcoreapp2.0/WordScrambler.csproj.CoreCompileInputs.cache
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/obj/Debug/netcoreapp2.0/WordScrambler.AssemblyInfoInputs.cache
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/obj/Debug/netcoreapp2.0/WordScrambler.AssemblyInfo.cs
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/obj/Debug/netcoreapp2.0/WordScrambler.dll
+/Users/wesm/Developer/c#/AbstractCasting/WordScrambler/obj/Debug/netcoreapp2.0/WordScrambler.pdb

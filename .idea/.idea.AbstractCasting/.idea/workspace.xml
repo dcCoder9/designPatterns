@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd139fdb-d16c-4064-87e5-22ddc92a3fb9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/AbstractCasting.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/EF/A_EF.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/EF/Abstract_EF.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/EF/B_EF.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/Models/A.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/Models/AbstractModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/Models/B.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/bin/Debug/netcoreapp2.0/AbstractCasting.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/bin/Debug/netcoreapp2.0/AbstractCasting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/bin/Debug/netcoreapp2.0/AbstractCasting.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/bin/Debug/netcoreapp2.0/AbstractCasting.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/bin/Debug/netcoreapp2.0/AbstractCasting.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/AbstractCasting.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/AbstractCasting.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/AbstractCasting.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/Debug/netcoreapp2.0/AbstractCasting.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/Debug/netcoreapp2.0/AbstractCasting.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/Debug/netcoreapp2.0/AbstractCasting.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/Debug/netcoreapp2.0/AbstractCasting.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/Debug/netcoreapp2.0/AbstractCasting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/Debug/netcoreapp2.0/AbstractCasting.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractCasting/obj/project.packagespec.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WordScrambler/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+              <folding>
+                <marker date="1525372373723" expanded="false" signature="6:83" ph="..." />
+                <marker date="1525372373723" expanded="true" signature="108:1162" ph="{...}" />
+                <marker date="1525372373723" expanded="true" signature="128:1160" ph="{...}" />
+                <marker date="1525372373723" expanded="true" signature="174:1154" ph="{...}" />
+                <marker date="1525372373723" expanded="true" signature="724:863" ph="{...}" />
+                <marker date="1525372373723" expanded="true" signature="1067:1131" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>throw</find>
+      <find>&quot;</find>
+      <find>lust</find>
+      <find>this.hat</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WordScrambler/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BranchingDemo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Maybe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Or.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BranchingDemo/IAccountState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/DumpExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00636EBA-B465-4FB7-A2FF-639C56F2A3F9/11/ed075a2d/INullable.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/cb/887ae6de/Func`3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BranchingDemo/Account.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/337025D3-02CA-4422-AF34-3BB036BBCF80/a2/ccda330d/Hunspell.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/WordScrambler/WordBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0DA4C533-4DD5-40E1-8BFB-8431A5D9796F/dd/7f74ace7/Enumerable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AbstractCasting/AbstractClass.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/AbstractCriteria.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/B.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/A.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/CastedTo/A_ActsLikeChild.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/Castee/A_ActsLikeChild.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/Castee/B_ActsLikechild.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/EF/A_ActsLikeChild.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/EF/Abstract_ish_EF.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/EF/Abstract_EF.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/EF/B_EF.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/EF/A_EF.cs" />
+        <option value="$PROJECT_DIR$/AbstractCasting/Program.cs" />
+        <option value="$PROJECT_DIR$/BranchingDemo/Program.cs" />
+        <option value="$PROJECT_DIR$/BranchingDemo/IFreezable.cs" />
+        <option value="$PROJECT_DIR$/BranchingDemo/IAccountState.cs" />
+        <option value="$PROJECT_DIR$/BranchingDemo/Account.cs" />
+        <option value="$PROJECT_DIR$/WordScrambler/WordBuilder.cs" />
+        <option value="$PROJECT_DIR$/WordScrambler/Program.cs" />
+        <option value="$PROJECT_DIR$/Core/Program.cs" />
+        <option value="$PROJECT_DIR$/Core/DumpExtension.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Maybe.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Or.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="657" />
+    <option name="y" value="25" />
+    <option name="width" value="623" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AbstractCasting (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AbstractCasting (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BranchingDemo" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AbstractCasting (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ConsoleApp1" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.ConsoleApp1">
+    <configuration name="BranchingDemo" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BranchingDemo/bin/Debug/netcoreapp2.0/BranchingDemo.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BranchingDemo" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BranchingDemo/BranchingDemo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AbstractCasting/bin/Debug/netcoreapp2.0/AbstractCasting.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AbstractCasting" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AbstractCasting/AbstractCasting.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <configuration name="WordScrambler" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WordScrambler/bin/Debug/netcoreapp2.0/WordScrambler.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordScrambler" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordScrambler/WordScrambler.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.BranchingDemo" />
+      <item itemvalue=".NET Project.WordScrambler" />
+      <item itemvalue=".NET Project.ConsoleApp1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.ConsoleApp1" />
+        <item itemvalue=".NET Project.WordScrambler" />
+        <item itemvalue=".NET Project.BranchingDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd139fdb-d16c-4064-87e5-22ddc92a3fb9" name="Default" comment="" />
+      <created>1521319103521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521319103521</updated>
+      <workItem from="1521319106271" duration="2249000" />
+      <workItem from="1524527066210" duration="271000" />
+      <workItem from="1525024431672" duration="6034000" />
+      <workItem from="1525047662893" duration="1353000" />
+      <workItem from="1525054881654" duration="964000" />
+      <workItem from="1525372107807" duration="4627000" />
+      <workItem from="1525484447125" duration="3011000" />
+      <workItem from="1525910828720" duration="267000" />
+    </task>
+    <task id="LOCAL-00001" summary="start working with dictionaries for word scrambler">
+      <created>1525372405974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525372405974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Get decorator with maybe working and use function references">
+      <created>1525484926237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525484926237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18776000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32956383" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21517241" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26206896" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32965517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.273021" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4331551" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32827586" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start working with dictionaries for word scrambler" />
+    <MESSAGE value="Get decorator with maybe working and use function references" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get decorator with maybe working and use function references" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ConsoleApp1/Program.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" initialLine="11">
+            <startOffsets>
+              <startOffset value="353" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="372" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ConsoleApp1/Program.cs</url>
+          <line>58</line>
+          <properties documentPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" initialLine="38">
+            <startOffsets>
+              <startOffset value="1460" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1475" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BranchingDemo/Account.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1525043461516" expanded="true" signature="65:868" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="225:306" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="351:465" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="511:626" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="664:752" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="782:862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordScrambler/WordBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BranchingDemo/IAccountState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/Abstract_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordScrambler/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+          <folding>
+            <marker date="1525372373723" expanded="false" signature="6:83" ph="..." />
+            <marker date="1525372373723" expanded="true" signature="108:1162" ph="{...}" />
+            <marker date="1525372373723" expanded="true" signature="128:1160" ph="{...}" />
+            <marker date="1525372373723" expanded="true" signature="174:1154" ph="{...}" />
+            <marker date="1525372373723" expanded="true" signature="724:863" ph="{...}" />
+            <marker date="1525372373723" expanded="true" signature="1067:1131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/AbstractModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/A.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/B_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/A_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BranchingDemo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BranchingDemo/IAccountState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/Abstract_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/B.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BranchingDemo/Account.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1525043461516" expanded="true" signature="65:868" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="225:306" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="351:465" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="511:626" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="664:752" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="782:862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/AbstractModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/A.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/B_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/A_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/Abstract_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/B.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/AbstractModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/A.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/B_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/A_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/Abstract_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/B.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/AbstractCasting.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/B_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/B.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BranchingDemo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BranchingDemo/IAccountState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordScrambler/WordBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2515">
+          <caret line="214" column="24" selection-start-line="214" selection-start-column="24" selection-end-line="214" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/337025D3-02CA-4422-AF34-3BB036BBCF80/a2/ccda330d/Hunspell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/DumpExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0DA4C533-4DD5-40E1-8BFB-8431A5D9796F/dd/7f74ace7/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41070">
+          <caret line="2739" column="100" selection-start-line="2739" selection-start-column="100" selection-end-line="2739" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC73CFC6-637F-43C7-B075-209993A74E64/cb/887ae6de/Func`3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00636EBA-B465-4FB7-A2FF-639C56F2A3F9/11/ed075a2d/INullable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Maybe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <marker date="1525485431946" expanded="false" signature="6:66" ph="..." />
+            <marker date="1525485431946" expanded="true" signature="117:1142" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="211:284" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="309:380" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="425:484" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="523:578" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="618:741" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="675:731" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="807:1028" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="864:975" ph="{...}" />
+            <marker date="1525485431946" expanded="true" signature="1066:1136" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Or.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+          <folding>
+            <marker date="1525549941540" expanded="false" signature="6:60" ph="..." />
+            <marker date="1525549941540" expanded="true" signature="83:991" ph="{...}" />
+            <marker date="1525549941540" expanded="true" signature="110:989" ph="{...}" />
+            <marker date="1525549941540" expanded="true" signature="275:341" ph="{...}" />
+            <marker date="1525549941540" expanded="true" signature="368:434" ph="{...}" />
+            <marker date="1525549941540" expanded="true" signature="477:550" ph="{...}" />
+            <marker date="1525549941540" expanded="true" signature="592:665" ph="{...}" />
+            <marker date="1525549941540" expanded="true" signature="710:830" ph="{...}" />
+            <marker date="1525549941540" expanded="true" signature="877:983" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1525549941544" expanded="false" signature="6:88" ph="..." />
+            <marker date="1525549941544" expanded="true" signature="131:650" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="177:644" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="672:808" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="743:802" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="839:1516" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="1067:1393" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="1202:1335" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="1437:1510" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="1547:1841" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="1594:1696" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="1740:1835" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="1872:2166" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="1919:2021" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="2065:2160" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="2202:2502" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="2249:2356" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="2400:2496" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="2537:2836" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="2584:2690" ph="{...}" />
+            <marker date="1525549941544" expanded="true" signature="2734:2830" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/AbstractModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/A_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/Models/A.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractCasting/EF/Abstract_EF.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BranchingDemo/Account.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1525043461516" expanded="true" signature="65:868" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="225:306" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="351:465" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="511:626" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="664:752" ph="{...}" />
+            <marker date="1525043461516" expanded="true" signature="782:862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WordScrambler/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <marker date="1525372373723" expanded="false" signature="6:83" ph="..." />
+            <marker date="1525372373723" expanded="true" signature="108:1162" ph="{...}" />
+            <marker date="1525372373723" expanded="true" signature="128:1160" ph="{...}" />
+            <marker date="1525372373723" expanded="true" signature="174:1154" ph="{...}" />
+            <marker date="1525372373723" expanded="true" signature="724:863" ph="{...}" />
+            <marker date="1525372373723" expanded="true" signature="1067:1131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
